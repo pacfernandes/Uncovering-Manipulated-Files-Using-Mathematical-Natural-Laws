@@ -6,3 +6,7 @@ The approach was validated on different datasets, with a focus on manipulated PD
 Beyond providing a machine-learning-independent and robust solution for imbalanced or limited data scenarios, this study opens new avenues for the use of mathematical statistics in cybersecurity and digital forensics, with direct implications for fraud and malware detection in digital documents.
 
 
+# Publications
+
++ Uncovering Manipulated Files Using Mathematical Natural Laws, Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2023. Lecture Notes in Computer Science, vol 14469. Springer, Cham., (doi.org/10.1007/978-3-031-49018-7_4)
+, [URL](https://doi.org/10.1007/978-3-031-49018-7_4)
